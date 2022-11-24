@@ -134,7 +134,7 @@
 			$header
 				.panel({
 					delay: 500,
-					hideOnClick: true,
+					hideOnClick: true,				
 					hideOnSwipe: true,
 					resetScroll: true,
 					resetForms: true,
