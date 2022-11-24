@@ -9,7 +9,7 @@
 	var $window = $(window),
 		$body = $('body'),
 		$header = $('#header'),
-		$titleBar = null,
+		$titleBar = 'Menu',
 		$nav = $('#nav'),
 		$wrapper = $('#wrapper');
 
@@ -125,7 +125,7 @@
 			$titleBar = $(
 				'<div id="titleBar">' +
 					'<a href="#header" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + 'Menu' + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);

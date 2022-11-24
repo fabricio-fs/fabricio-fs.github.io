@@ -3041,7 +3041,7 @@ input, select, textarea {
 					font-weight: 700;
 					height: 44px;
 					line-height: 44px;
-					padding: 0 5em;
+					padding: 0 3em;
 					width: 100%;
 					text-align: right;
 				}
@@ -3080,13 +3080,13 @@ input, select, textarea {
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
-						font-size: 18px;
+						font-size: 14px;
 						height: 44px;
 						line-height: 44px;
 						position: absolute;
 						text-align: center;
 						top: 0;
-						width: 64px;
+						width: 44px;
 						right: 0;
 					}
 
